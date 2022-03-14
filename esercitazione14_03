@@ -1,6 +1,10 @@
-Rinominare un file della propria HOME directory cat paperino1
+Rinominare un file della propria HOME directory 
 
-Spostare uno dei file della propria HOME directory in una sottodirectory precedentemente creata mkdir sottodir mv paperino ./sottodir/paperino
+cat paperino1
+
+Spostare uno dei file della propria HOME directory in una sottodirectory precedentemente creata 
+mkdir sottodir 
+mv paperino ./sottodir/paperino
 
 Creare un link software per un file della propria HOME directory in una sottodirectory precedentemente creata; verificare il numero di link, le proprietà del link software e il suo uso ln -s pluto ./sottodir/plutosw ls -l sottodir
 
